@@ -1,9 +1,0 @@
-resources:
-  -
-
-bases:
-  -
-
-transformers:
-  - site-config.yaml
-
