@@ -3,3 +3,6 @@ kind: InstallConfig
 metadata:
   name: cluster
 baseDomain: edge.css-qe.com
+controlPlane:
+  name: worker
+  replicas: 0
