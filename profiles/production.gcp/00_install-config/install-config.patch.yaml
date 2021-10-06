@@ -6,4 +6,4 @@ platform:
   gcp:
     projectID: css-qe
     region: us-east1
-    type: n2-standard-8
+    type: n1-standard-8
