@@ -4,9 +4,6 @@ compute:
 - hyperthreading: Enabled
   name: worker
   replicas: 3
-  platform:
-    gcp:
-      type: n1-standard-8
 controlPlane:
   hyperthreading: Enabled
   name: master
