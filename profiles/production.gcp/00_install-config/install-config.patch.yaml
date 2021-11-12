@@ -5,4 +5,4 @@ metadata:
 platform:
   gcp:
     projectID: css-qe
-    region: us-central1
+    region: us-east1
