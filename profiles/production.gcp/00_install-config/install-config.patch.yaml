@@ -4,5 +4,5 @@ metadata:
   name: cluster
 platform:
   gcp:
-    projectID: validated-patterns-332521 
+    projectID: validated-patterns-332521
     region: us-east1
