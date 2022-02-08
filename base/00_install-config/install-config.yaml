@@ -6,7 +6,7 @@ compute:
   replicas: 3
   platform:
     gcp:
-      type: n1-standard-8
+      type: n1-standard-16
 controlPlane:
   hyperthreading: Enabled
   name: master
